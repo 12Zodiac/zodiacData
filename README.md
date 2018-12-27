@@ -1,8 +1,8 @@
 # zodiacData
 Zodiac 
 {
-      "id":"20181229",
-      "date":"2018-12-29",
+      "id":"20190101",
+      "date":"2018-01-01",
       "title":["Integrated","Career","Love","Wealth"],
       "integrated":["The genus of the mouse entered the 2019 year of the Year of the Pig, and the ancestor of the ancestral temple became a water bureau, and the yin and yang were mixed, and the yin and yang were combined. This means that the Rats have a good interpersonal relationship this year and can take good care of them. But this year, there is no Jixing help, and the sky has dried up, which implies that this year is not a smooth sailing, but a mixed vibe and a mixed feeling.",
       "The cattleman was too old a sentence last year, and it caused more or less damage to the fortune. Entering the 2019 year of the Year of the Pig, because the Jixing is not prosperous, the threat of the evil star is not small, so the overall fortune this year is not ideal, especially the safe fortune will be greatly affected, I am afraid that I will be worried and pay attention.","The tigers entered the 2019 year of the Year of the Pig, and the zodiac and the dynasties formed a ruin of the ruins of the ruins of the ruins. It was also a kind of ruin that was too old, but it was only slightly affected. At the same time, Yu Hai has become a six-in-one game, which means that it is intertwined with the flow year into an intricate relationship. The appearance on the surface of the old age looks like a royal family, but in fact, with the king as a tiger, it is hard to say.",
